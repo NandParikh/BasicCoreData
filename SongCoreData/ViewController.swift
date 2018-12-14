@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  SongCoreData
-//
-//  Created by Nand Nrup on 07/05/17.
-//  Copyright © 2017 SongCoreData. All rights reserved.
-//
 
 import UIKit
 import CoreData
